@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <path d="M 166.113 245.639 C 192.447 216.204 204.388 179.776 229.331 187.811 C 254.274 195.846 255.023 224.182 285.922 230.971 C 316.821 237.76 352.194 178.842 398.817 186.085 C 445.44 193.328 420.631 354.304 453.128 373.891 C 485.625 393.478 496.711 341.966 548.398 346.302 C 593.384 350.076 588.241 406.413 640.381 373.298" fill="none" stroke="url(#SvgjsLinearGradient1001)" stroke-linecap="round" stroke-dasharray="0 0" stroke-opacity="1" style="stroke: url(#SvgjsLinearGradient1001-0); stroke-width: 10px;" transform="matrix(-0.927374, -0.374136, 0.374136, -0.927374, 670.738081, 699.351109)"/>
+  <defs>
+    <linearGradient id="SvgjsLinearGradient1001">
+      <stop offset="0" style="stop-color: rgb(59, 116, 201);"/>
+      <stop offset="1" style="stop-color: rgb(136, 191, 254);"/>
+    </linearGradient>
+    <linearGradient id="SvgjsLinearGradient1001-0" gradientTransform="matrix(0.963202, 1.044018, -0.229573, 0.883292, 0.0363, -0.026251)" x1="0.086" y1="-0.592" x2="1.086" y2="-0.592" xlink:href="#SvgjsLinearGradient1001"/>
+  </defs>
+</svg>
