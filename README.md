@@ -45,12 +45,14 @@
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
+      <a href="#status">Status</a>
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
+        <li><a href="#common-errors">Common Errors</a></li>
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
@@ -86,15 +88,12 @@ Please regularly check here for known problems and activity status of the projec
 <!-- GETTING STARTED -->
 ## Getting Started
 
-To get a local copy up and running follow these simple example steps.
+To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 
-Install the latest version of npm
+Install the latest version of npm. Follow instructions at https://docs.npmjs.com/downloading-and-installing-node-js-and-npm
 * npm
-  ```sh
-  npm install npm@latest -g
-  ```
 
 ### Installation
 
@@ -102,7 +101,7 @@ Install the latest version of npm
    ```sh
    git clone https://github.com/hamzah2304/titan-echo-public.git
    ```
-2. Navigate inside the repo from terminal
+2. Navigate inside the repo from the terminal. Start from the directory you cloned the repo into. 
    ```sh
    cd titan-echo-public
    ```
@@ -114,6 +113,15 @@ Install the latest version of npm
    ```sh
    npm run echo
    ```
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+<!-- COMMON ERRORS -->
+## Common Errors
+
+In this section we will list common installation errors. Please contact the team using the support email below if you run into errors. 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
