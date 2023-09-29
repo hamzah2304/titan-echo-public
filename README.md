@@ -21,7 +21,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/hamzah2304/titan-echo-app" style="padding: 0px;">
+  <a href="https://github.com/hamzah2304/titan-echo-public" style="padding: 0px;">
     <img src="public/titanechologo.svg" alt="Logo" width="320" height="270" style="padding: 0px;">
   </a>
   
@@ -100,11 +100,11 @@ Install the latest version of npm
 
 1. Clone the repo into your desired folder
    ```sh
-   git clone https://github.com/hamzah2304/titan-echo-app.git
+   git clone https://github.com/hamzah2304/titan-echo-public.git
    ```
 2. Navigate inside the repo from terminal
    ```sh
-   cd titan-echo-app
+   cd titan-echo-public
    ```
 2. Install NPM packages
    ```sh
@@ -189,16 +189,16 @@ titanechosx@gmail.com
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/hamzah2304/titan-echo-app.svg?style=for-the-badge
-[contributors-url]: https://github.com/hamzah2304/titan-echo-app/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/hamzah2304/titan-echo-app.svg?style=for-the-badge
-[forks-url]: https://github.com/hamzah2304/titan-echo-app/network/members
-[stars-shield]: https://img.shields.io/github/stars/hamzah2304/titan-echo-app.svg?style=for-the-badge
-[stars-url]: https://github.com/hamzah2304/titan-echo-app/stargazers
-[issues-shield]: https://img.shields.io/github/issues/hamzah2304/titan-echo-app.svg?style=for-the-badge
-[issues-url]: https://github.com/hamzah2304/titan-echo-app/issues
-[license-shield]: https://img.shields.io/github/license/hamzah2304/titan-echo-app.svg?style=for-the-badge
-[license-url]: https://github.com/hamzah2304/titan-echo-app/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/hamzah2304/titan-echo-public.svg?style=for-the-badge
+[contributors-url]: https://github.com/hamzah2304/titan-echo-public/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/hamzah2304/titan-echo-public.svg?style=for-the-badge
+[forks-url]: https://github.com/hamzah2304/titan-echo-public/network/members
+[stars-shield]: https://img.shields.io/github/stars/hamzah2304/titan-echo-public.svg?style=for-the-badge
+[stars-url]: https://github.com/hamzah2304/titan-echo-public/stargazers
+[issues-shield]: https://img.shields.io/github/issues/hamzah2304/titan-echo-public.svg?style=for-the-badge
+[issues-url]: https://github.com/hamzah2304/titan-echo-public/issues
+[license-shield]: https://img.shields.io/github/license/hamzah2304/titan-echo-public.svg?style=for-the-badge
+[license-url]: https://github.com/hamzah2304/titan-echo-public/LICENSE.txt
 [product-screenshot]: images/screenshot.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
