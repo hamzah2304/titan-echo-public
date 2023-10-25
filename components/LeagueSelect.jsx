@@ -16,8 +16,8 @@ const LeagueSelect = ({sportsMapT,sports,leaguesState,leaguesLoadedState}) => {
 		getAllLeagues((data)=>{
 			let templeagues = {}
 			data.forEach((leaguerow)=>{
-				let thissport = sportsMapT[leaguerow['sportId']];
-				if (leaguerow['sportId']<10 || leaguerow['sportId']==12){
+				if (leaguerow['sportId'] in sportsMapT){
+					let thissport = sportsMapT[leaguerow['sportId']];
 					if (thissport in templeagues){
 						// set to false
 						templeagues[thissport][leaguerow['label']] = false;

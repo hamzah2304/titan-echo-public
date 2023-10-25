@@ -52,6 +52,7 @@ export default function Home() {
     Football: 8,
     "E Sports": 9,
     Racing: 12,
+    Crypto: 14,
   };
   const sportsMapT = {
     1: "Basketball",
@@ -64,6 +65,7 @@ export default function Home() {
     8: "Football",
     9: "E Sports",
     12: "Racing",
+    14: "Crypto",
   };
 
   const sports = {
@@ -77,6 +79,7 @@ export default function Home() {
     "Mixed Martial Arts": useState(false),
     "E Sports": useState(false),
     Racing: useState(false),
+    Crypto: useState(false),
   };
 
   const titansState = useState({
